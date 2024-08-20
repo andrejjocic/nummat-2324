@@ -1,0 +1,7 @@
+name = "GaussLegendre"
+uuid = "1fb39df2-e11c-4e3f-83a8-289c15fbdf83"
+authors = ["Andrej Jočić <andrej.jocic.aj@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
